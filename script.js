@@ -61,7 +61,8 @@ const messages = [
     "Just think about it!",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, say yes please! ❤️", 
+    "Say yess DUMBOOO","Say else or else *poom *pow *pham"
 ];
 
 let messageIndex = 0;
