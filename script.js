@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Pakka?",
-    "Think Again??",
+    "Pakka Jaanu?",
+    "Think Again babe??",
     "Pakka no?",
-    "Panda please...",
+    "Cookie please...",
     "Just think about it!",
     "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️", 
-    "Say yess DUMBOOO","Say else or else *poom *pow *pham"
+    "I will let you beat me up",
+    "I will wash dishes too ❤️", 
+    "Say yess JAANUUU","MY JAAN PRESS YES"
 ];
 
 let messageIndex = 0;
